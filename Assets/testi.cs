@@ -8,7 +8,7 @@ public class testi : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		//push
 	}
 	
 	// Update is called once per frame
